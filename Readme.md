@@ -1,11 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# écrit moi une version en anglais
-
-Here is the English `README.md` version you asked for.
-
-***
-
 # Extract and process information directly from PDF using Claude and Gemini
 
 This n8n workflow lets you extract and process information directly from a PDF file in a single step, while comparing the performance of Claude 3.5 Sonnet and Gemini 2.0 Flash. It removes the need to first run an OCR tool and then call an LLM separately.[^1]
